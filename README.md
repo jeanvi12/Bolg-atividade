@@ -1,1 +1,2 @@
-# Bolg-atividade
+# atividade_blog
+Atividade simulação de blog
